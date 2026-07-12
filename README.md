@@ -2,7 +2,7 @@
 
 ## About Me
 
-Football coach and athletic performance coach with a background in education and performance data analysis, transitioning into data analytics.
+Football coach and athletic performance coach with a background in education, performance analysis, and data-driven decision making, transitioning into data analytics.
 
 Completed the Google Data Analytics Professional Certificate and developed skills in SQL, Python, Tableau, dashboard design, and data visualization.
 
