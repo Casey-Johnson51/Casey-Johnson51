@@ -23,7 +23,9 @@ Completed the Google Data Analytics Professional Certificate and developed skill
 ## Current Focus
 
 -Building a data analytics portfolio
+
 -Expanding SQL, Python, and Tableau skills
+
 -Applying analytics in sports and business settings
 
 ## Certifications
