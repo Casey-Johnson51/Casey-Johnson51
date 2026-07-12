@@ -4,7 +4,7 @@
 
 Football coach and athletic performance coach with a background in education and performance data analysis, transitioning into data analytics.
 
-Currently completing the Google Data Analytics Professional Certificate and developing skills in SQL, Tableau, dashboard design, and data visualization. Passionate about using data to improve decision-making and performance.
+Completed the Google Data Analytics Professional Certificate and developed skills in SQL, Python, Tableau, dashboard design, and data visualization.
 
 ## Skills
 
@@ -22,8 +22,9 @@ Currently completing the Google Data Analytics Professional Certificate and deve
 
 ## Current Focus
 
-- Google Data Analytics Professional Certificate
-- Google Data Analytics Capstone Case Study
+-Building a data analytics portfolio
+-Expanding SQL, Python, and Tableau skills
+-Applying analytics in sports and business settings
 
 ## Certifications
 
